@@ -10,7 +10,7 @@ Fusing research ⚡💻 and art 🎶.
 
 - 🎓 **Current Status:** PhD researcher at the University of Glasgow, UK.
 - 🎹 **Passion:** Dedicated 20 years to the piano keys.
-- 🌱 **Currently learning:** Chopin Polonaise in F-sharp minor, Op. 44
+- 🌱 **Currently learning:** Chopin Polonaise in F-sharp minor, Op. 44.
 - 💬 **Ask me about:** Computer science, electrical engineering, academic, or music.
 
 ---
