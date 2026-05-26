@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm BrokenRondo
 
-<!--
-**BrokenRondo/BrokenRondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fusing research ⚡💻 and art 🎶.
 
-Here are some ideas to get you started:
+<!-- 徽章扁平化方块 -->
+![EEE PhD](https://img.shields.io/badge/Research-EEE%20PhD%20%40%20UofG-blue?style=for-the-badge&logo=microscope)
+![Pianist](https://img.shields.io/badge/Art-20%20Year%20Pianist-red?style=for-the-badge&logo=music)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+- 🎓 **Current Status:** PhD researcher at the University of Glasgow, UK.
+- 🎹 **Passion:** Dedicated 20 years to the piano keys.
+- 🌱 **Currently learning:** Chopin Polonaise in F-sharp minor, Op. 44
+- 💬 **Ask me about:** Computer science, electrical engineering, academic, or music.
+
+---
+
+*“Wiring circuits by day, striking chords by night.”*
